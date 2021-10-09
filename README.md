@@ -1,11 +1,9 @@
 <div align="center">
-	▼▼▼ CLICK ▼▼▼
 	<br>
 	<a href='https://seevee.co.nz/nick'>
 		<img src="bacon.gif" >
 	</a>
 	<br>
-	▲▲▲ CLICK ▲▲▲
 </div>
 
 # Nick / Bac0nEater
