@@ -8,6 +8,6 @@
 
 # Nick / Bac0nEater
 
-👋&nbsp;&nbsp; Hi, I’m Nick / Bac0nEater. <br>
+👋&nbsp;&nbsp; Hi, I’m Nick / Bac0nEater <br>
 ❤️&nbsp;&nbsp; I’m interested in 🎮🏂🏀🎱 <br>
-📖&nbsp;&nbsp; I’m currently studying 2nd-Year Software Engineering in UOA <br>
+📖&nbsp;&nbsp; I’m currently studying :two:-Year Software Engineering 💻 in UOA <br>
