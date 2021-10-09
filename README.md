@@ -1,5 +1,4 @@
 <div align="center">
-	<br>
 	▼▼▼ CLICK ▼▼▼
 	<br>
 	<a href='https://seevee.co.nz/nick'>
