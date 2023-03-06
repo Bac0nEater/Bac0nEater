@@ -10,4 +10,4 @@
 
 ## 👋&nbsp;&nbsp; Hi, I’m Nick / Bac0nEater <br>
 ## ❤️&nbsp;&nbsp; I’m interested in 🎮🏂🏀🎱 <br>
-## 📖&nbsp;&nbsp; I’m currently studying 4️⃣:-Year Software Engineering in UOA <br>
+## 📖&nbsp;&nbsp; I’m currently studying 4️⃣-Year Software Engineering in UOA <br>
